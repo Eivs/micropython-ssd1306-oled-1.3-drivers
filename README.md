@@ -1,6 +1,7 @@
 # micropython-ssd1306-oled-1.3-drivers
 MicroPython SSD1306 1.3" OLED driver, I2C and SPI interfaces
 
+![demo](https://github.com/Eivs/micropython-ssd1306-oled-1.3-drivers/raw/main/demo.jpg)
 
 
 # How to use
